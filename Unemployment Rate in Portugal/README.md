@@ -12,6 +12,3 @@ This project is part of the Master's Program in Statistics at @NovaIms, where we
 - ARIMA (Autoregressive Integrated Moving Average) model<br> 
 - Cross-Correlation<br> 
 - Periodogram<br> 
-
-
-<p><br><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
